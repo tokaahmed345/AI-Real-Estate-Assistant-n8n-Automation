@@ -75,7 +75,7 @@
 
      
   </section>
-<img width="1920" height="903" alt="spread" src="https://github.com/user-attachments/assets/49c883ea-c868-49e4-a30f-4c7f540d4dc6" />
+
   <section>
     <h2><span class="num">5</span> Lead scoring logic</h2>
     <div class="card">

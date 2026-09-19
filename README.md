@@ -73,15 +73,9 @@
         <figure>
           <img src="<img width="1074" height="1280" alt="image" src="https://github.com/user-attachments/assets/23daf65b-61f5-4fc0-a41a-979d14918b94" />
 
-      <div class="shot">
-        <figure>
-<img width="1920" height="903" alt="spread" src="https://github.com/user-attachments/assets/49c883ea-c868-49e4-a30f-4c7f540d4dc6" />
-
-        </div><img width="1074" height="1280" alt="WhatsApp Image 2026-09-19 at 3 26 09 PM" src="https://github.com/user-attachments/assets/b2fdcb39-8ec4-4210-9442-54deddd100e0" />
-
-    </div>
+     
   </section>
-
+<img width="1920" height="903" alt="spread" src="https://github.com/user-attachments/assets/49c883ea-c868-49e4-a30f-4c7f540d4dc6" />
   <section>
     <h2><span class="num">5</span> Lead scoring logic</h2>
     <div class="card">

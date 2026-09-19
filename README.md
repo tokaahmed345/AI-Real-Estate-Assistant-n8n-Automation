@@ -62,17 +62,20 @@
     <h2><span class="num">3</span> The n8n workflow</h2>
     <div class="shot">
       <figure>
-        <img  width="1920" height="903" alt="WhatsApp Image 2026-09-19 at 3 26 09 PM" src="https://github.com/user-attachments/assets/cc624be6-2104-46a9-bd03-d3f8250b90cc" />
+
+<img width="1494" height="613" alt="real_estate_auto" src="https://github.com/user-attachments/assets/59ca2f70-48ed-4e8e-a775-ebaa736b21ae" />
 
 
   </section>
-<img width="1920" height="903" alt="spread" src="https://github.com/user-attachments/assets/49c883ea-c868-49e4-a30f-4c7f540d4dc6" />
+
   <section>
     <h2><span class="num">4</span> Proof it works end-to-end</h2>
     <div class="two-shots">
       <div class="shot">
         <figure>
-          <img src="<img width="1074" height="1280" alt="image" src="https://github.com/user-attachments/assets/23daf65b-61f5-4fc0-a41a-979d14918b94" />
+
+<img width="1920" height="903" alt="spread" src="https://github.com/user-attachments/assets/49c883ea-c868-49e4-a30f-4c7f540d4dc6" />
+        <img  width="1920" height="903" alt="WhatsApp Image 2026-09-19 at 3 26 09 PM" src="https://github.com/user-attachments/assets/cc624be6-2104-46a9-bd03-d3f8250b90cc" />
 
      
   </section>

@@ -62,7 +62,7 @@
     <h2><span class="num">3</span> The n8n workflow</h2>
     <div class="shot">
       <figure>
-        <img width="1074" height="1280" alt="WhatsApp Image 2026-09-19 at 3 26 09 PM" src="https://github.com/user-attachments/assets/cc624be6-2104-46a9-bd03-d3f8250b90cc" />
+        <img  width="1920" height="903" alt="WhatsApp Image 2026-09-19 at 3 26 09 PM" src="https://github.com/user-attachments/assets/cc624be6-2104-46a9-bd03-d3f8250b90cc" />
 
 
   </section>
